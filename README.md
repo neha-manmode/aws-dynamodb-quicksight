@@ -30,4 +30,8 @@ IAM policies required for:
 - **Lambda to invoke Athena Federated Query**
 - **Athena to access S3 spill bucket**
 
+## Screenshots
+
+### QuickSight Dashboard
+![QuickSight Dashboard](quicksight_dashboard.png)
 
